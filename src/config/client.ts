@@ -79,7 +79,7 @@ export const client = {
 
   // Reviews — placeholder
   reviews: [
-    { name: "Clive", rating: 5, text: "Carolyn and Sue have visited my home on two occasions to date, firstly to discuss the project and then to measure and take photos, today they returned with their plans to transform my garden. …  ", date: "4 years ago" },
+    { name: "Clive", rating: 5, text: "Carolyn and Sue have visited my home on two occasions to date, firstly to discuss the project and then to measure and take photos, today they returned with their plans to transform my garden.  Having never used a garden design team before I genuinely did not know what to expect especially as this is a large project and includes a number of awkward areas that require plenty of consideration. I have to say that I am absolutely made up with what they have put together, the thought, understanding and creativity they have put into their drawings is more than I could have hoped for, I am truly delighted.  They are also both exceptionally easy to work with and it will therefore come as no surprise that I can wholly recommend their service. Thank you both.", date: "4 years ago", badge: "Local Guide" },
   ] as { name: string; rating: number; text: string; date: string; badge?: string }[],
 
   // SEO
